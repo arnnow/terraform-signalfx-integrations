@@ -16,7 +16,7 @@ module "signalfx-integrations-cloud-gcp" {
 | Name | Version |
 |------|---------|
 | google | ~> 3 |
-| signalfx | ~> 4 |
+| signalfx | >= 4.26.4 |
 
 ## Inputs
 
